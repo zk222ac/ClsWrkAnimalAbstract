@@ -23,17 +23,17 @@ namespace ClsWrkAnimal
 
         public override string MakeNoise()
         {
-            throw new NotImplementedException();
+            return "Make a chirpy noise";
         }
 
         public override string Eat()
         {
-            throw new NotImplementedException();
+            return "Hippo eat vegetables";
         }
 
         public override string Sleep()
         {
-            throw new NotImplementedException();
+            return "Hippo sleeps very firmly";
         }
     }
 }

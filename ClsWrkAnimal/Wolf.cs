@@ -10,12 +10,12 @@ namespace ClsWrkAnimal
     {
         public string Eat()
         {
-            throw new NotImplementedException();
+            return "Wolf eat flesh animals";
         }
 
         public string Sleep()
         {
-            throw new NotImplementedException();
+            return "wolf sleep in the dag time";
         }
     }
 }

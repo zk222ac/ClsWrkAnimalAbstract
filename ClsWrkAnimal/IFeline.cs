@@ -8,7 +8,7 @@ namespace ClsWrkAnimal
 {
      interface IFeline 
     {
-        // No implementation - method with block of statment 
+        // No implementation - method with block of statement 
         // we also called abstract method
         string Roam();
         

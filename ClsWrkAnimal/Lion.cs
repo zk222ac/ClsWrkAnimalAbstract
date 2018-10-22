@@ -11,7 +11,6 @@ namespace ClsWrkAnimal
         private int _id;
         private string _location;
 
-
         public Lion(int id, string name, string location) : base(id, name, location)
         {
             _id = id;

@@ -10,7 +10,6 @@ namespace ClsWrkAnimal
     {
         private int _id;
 
-
         public Tiger(int id, string name, string location) : base(id, name, location)
         {
             _id = id;
